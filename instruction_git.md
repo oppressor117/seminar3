@@ -102,3 +102,8 @@ Git предалагает три способа разрешения конфл
     Accept Current Change | Accept Incoming Change | Accept Both Changes
 
  
+## Визуализация всех веток
+
+Чтобы отразить все коммиты в виде дерева, вводим команду:
+
+    git log --graph  
